@@ -5,4 +5,4 @@
 
 ### Clip 02 : 3D Wavy Circle (24 May 2024)
 
-### Clip 03 : Font Awesome Background (24 May 2024)
+### Clip 03 : Font Awesome Background (25 May 2024)
