@@ -8,3 +8,6 @@
 ### Clip 03 : Font Awesome Background (25 May 2024)
 
 ### Clip 04 : Loading Animation (25 May 2024)
+
+### Clip 05 : Glowing Text (25 May 2024)
+- -webkit-box-reflect
